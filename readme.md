@@ -14,6 +14,6 @@ Our code will break the game into four parts:
 <ol>
 <li>Get the user’s choice.</li>
 <li>Get the computer’s choice.</li>
-<li>Compare the two choices and determine a winner</li>.
+<li>Compare the two choices and determine a winner.</li>
 <li>Start the program and display the results.</li>
 </ol>
